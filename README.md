@@ -1,2 +1,2 @@
 # Canvas
-Para dibujar 
+Para dibujar con el mouse.
